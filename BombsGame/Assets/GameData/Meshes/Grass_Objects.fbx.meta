@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: e503d4e827b32284ab541c2a8b17327d
+timeCreated: 1453609230
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3 Figures
+    100002: Center
+    100004: Column
+    100006: Figure1
+    100008: //RootNode
+    100010: StonePanels
+    100012: Wall
+    100014: Figure2
+    100016: CenterLightStones
+    100018: Figure2_Stone1
+    100020: Figure2_Stone2
+    100022: CenterLightStones1
+    100024: CenterLightStones2
+    100026: CenterLightStones3
+    100028: CenterLightStones4
+    100030: CenterLightStones5
+    100032: CenterLightStones6
+    100034: CenterLightStones7
+    100036: CenterLightStones8
+    400000: 3 Figures
+    400002: Center
+    400004: Column
+    400006: Figure1
+    400008: //RootNode
+    400010: StonePanels
+    400012: Wall
+    400014: Figure2
+    400016: CenterLightStones
+    400018: Figure2_Stone1
+    400020: Figure2_Stone2
+    400022: CenterLightStones1
+    400024: CenterLightStones2
+    400026: CenterLightStones3
+    400028: CenterLightStones4
+    400030: CenterLightStones5
+    400032: CenterLightStones6
+    400034: CenterLightStones7
+    400036: CenterLightStones8
+    2300000: 3 Figures
+    2300002: Center
+    2300004: Column
+    2300006: Figure1
+    2300008: StonePanels
+    2300010: Wall
+    2300012: Figure2
+    2300014: CenterLightStones
+    2300016: Figure2_Stone1
+    2300018: Figure2_Stone2
+    2300020: CenterLightStones1
+    2300022: CenterLightStones2
+    2300024: CenterLightStones3
+    2300026: CenterLightStones4
+    2300028: CenterLightStones5
+    2300030: CenterLightStones6
+    2300032: CenterLightStones7
+    2300034: CenterLightStones8
+    3300000: 3 Figures
+    3300002: Center
+    3300004: Column
+    3300006: Figure1
+    3300008: StonePanels
+    3300010: Wall
+    3300012: Figure2
+    3300014: CenterLightStones
+    3300016: Figure2_Stone1
+    3300018: Figure2_Stone2
+    3300020: CenterLightStones1
+    3300022: CenterLightStones2
+    3300024: CenterLightStones3
+    3300026: CenterLightStones4
+    3300028: CenterLightStones5
+    3300030: CenterLightStones6
+    3300032: CenterLightStones7
+    3300034: CenterLightStones8
+    4300000: Column
+    4300002: 3 Figures
+    4300004: StonePanels
+    4300006: Center
+    4300008: Wall
+    4300010: Figure1
+    4300012: Figure2
+    4300014: Figure2_Stone2
+    4300016: Figure2_Stone1
+    4300018: CenterLightStones
+    4300020: CenterLightStones1
+    4300022: CenterLightStones2
+    4300024: CenterLightStones3
+    4300026: CenterLightStones4
+    4300028: CenterLightStones5
+    4300030: CenterLightStones6
+    4300032: CenterLightStones7
+    4300034: CenterLightStones8
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 4
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
